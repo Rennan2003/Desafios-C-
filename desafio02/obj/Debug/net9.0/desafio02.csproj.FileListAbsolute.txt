@@ -1,0 +1,14 @@
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\bin\Debug\net9.0\desafio02.exe
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\bin\Debug\net9.0\desafio02.deps.json
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\bin\Debug\net9.0\desafio02.runtimeconfig.json
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\bin\Debug\net9.0\desafio02.dll
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\bin\Debug\net9.0\desafio02.pdb
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.AssemblyInfoInputs.cache
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.AssemblyInfo.cs
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.csproj.CoreCompileInputs.cache
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.dll
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\refint\desafio02.dll
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.pdb
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\desafio02.genruntimeconfig.cache
+C:\Users\Rennan O\Desktop\Desafios C#\desafio02\obj\Debug\net9.0\ref\desafio02.dll
