@@ -20,67 +20,50 @@ caso contrário.*/
 
         string Placa = Console.ReadLine ();
  
-        ValidaPlaca(Placa);
-    }
+       bool resultado = ValidaPlaca(Placa);
+    if (resultado)
+                Console.WriteLine("Verdadeiro");
+            else
+                Console.WriteLine("Falso");
+        }
 
-      static bool ValidaPlaca(string Placa)
-   {
-        if (Placa.Length != 7)
-                {
-                    Console.WriteLine ("Falso");
-                    return false;
-                }
+        static bool ValidaPlaca(string Placa)
+        {
+            if (Placa.Length != 7)
+                return false;
 
-        for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 3; i++)
             {
-                if (Placa[i].ToString().ToLower() != "a" ||Placa[i].ToString().ToLower() != "b" ||Placa[i].ToString().ToLower() != "c" ||
-                Placa[i].ToString().ToLower() != "d" ||Placa[i].ToString().ToLower() != "e" ||Placa[i].ToString().ToLower() != "f" ||
-                Placa[i].ToString().ToLower() != "g" ||Placa[i].ToString().ToLower() != "h" ||Placa[i].ToString().ToLower() != "i" ||
-                Placa[i].ToString().ToLower() != "j" ||Placa[i].ToString().ToLower() != "k" ||Placa[i].ToString().ToLower() != "l" ||
-                Placa[i].ToString().ToLower() != "m" ||Placa[i].ToString().ToLower() != "n" ||Placa[i].ToString().ToLower() != "o" ||
-                Placa[i].ToString().ToLower() != "p" ||Placa[i].ToString().ToLower() != "q" ||Placa[i].ToString().ToLower() != "r" ||
-                Placa[i].ToString().ToLower() != "s" ||Placa[i].ToString().ToLower() != "t" ||Placa[i].ToString().ToLower() != "u" ||
-                Placa[i].ToString().ToLower() != "v" ||Placa[i].ToString().ToLower() != "w" ||Placa[i].ToString().ToLower() != "x" ||
-                Placa[i].ToString().ToLower() != "y" ||Placa[i].ToString().ToLower() != "z" )
-                {
-                    Console.Write("Falso");
+                string c = Placa[i].ToString().ToLower();
+
+                if (c != "a" && c != "b" && c != "c" && c != "d" && c != "e" &&
+                    c != "f" && c != "g" && c != "h" && c != "i" && c != "j" &&
+                    c != "k" && c != "l" && c != "m" && c != "n" && c != "o" &&
+                    c != "p" && c != "q" && c != "r" && c != "s" && c != "t" &&
+                    c != "u" && c != "v" && c != "w" && c != "x" && c != "y" && c != "z")
+                  {
                     return false;
+                  }
                     
-                }
-                else
-          
-                {
-                  Console.WriteLine("Verdadeiro!");
-                  return true;
-                 
-
-                } 
+                
             }
-         for (int n = 3; n < 7; n++)
+
+            for (int i = 3; i < 7; i++)
             {
-                if (Placa[n].ToString() !="1" || Placa[n].ToString() != "2" ||Placa[n].ToString() != "3" ||Placa[n].ToString() != "4" ||
-                Placa[n].ToString() != "5" ||Placa[n].ToString() != "6" ||Placa[n].ToString() != "7" ||Placa[n].ToString() != "8" ||Placa[n].ToString() != "9" ||
-                Placa[n].ToString() != "0" )
+                string c = Placa[i].ToString();
+
+                if (c != "0" && c != "1" && c != "2" && c != "3" &&
+                    c != "4" && c != "5" && c != "6" && c != "7" &&
+                    c != "8" && c != "9")
                 {
-                    Console.Write("Falso");
                     return false;
                 }
-                else
-          
-                {
-                  Console.WriteLine("Verdadeiro!");
-                  return true;
-
-                }
-                } 
-             Console.WriteLine("Verdadeiro!");
-             return true;
             }
-        
-    }
 
-   /* para os 3 primeiros se diferentes de "a" e ou "b" e ou "c"... - return false
+            return true;
+        }
+        /* para os 3 primeiros se diferentes de "a" e ou "b" e ou "c"... - return false
    para os últimos 4 se diferentes de 1 e ou 2 e ou 3 .... retornar falso
    else, retornar true.*/ 
+   }
 }
-
