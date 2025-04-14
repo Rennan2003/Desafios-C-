@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rennan O\\Desktop\\Desafios C#\\Desafios C#.csproj",
+      "projectUniqueName": "C:\\Users\\Rennan O\\Desktop\\Desafios C#\\desafio01\\Desafios C#.csproj",
       "projectName": "Desafios C#",
-      "projectPath": "C:\\Users\\Rennan O\\Desktop\\Desafios C#\\Desafios C#.csproj",
+      "projectPath": "C:\\Users\\Rennan O\\Desktop\\Desafios C#\\desafio01\\Desafios C#.csproj",
       "packagesPath": "C:\\Users\\Rennan O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rennan O\\Desktop\\Desafios C#\\obj\\",
+      "outputPath": "C:\\Users\\Rennan O\\Desktop\\Desafios C#\\desafio01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rennan O\\AppData\\Roaming\\NuGet\\NuGet.Config"
