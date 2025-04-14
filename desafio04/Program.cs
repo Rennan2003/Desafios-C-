@@ -1,8 +1,21 @@
 ﻿namespace Desafio04;
 
- //1. Crie um programa com 2 valores do tipo **`double`** já declarados ****que retorne:
-  //- A soma entre esses dois números;
-  //- A subtração entre os dois números;
-  //- A multiplicação entre os dois números;
-  //- A divisão entre os dois números (vale uma verificação se o segundo número é 0!);
-  //- A média entre os dois números. 
+/*  Crie um programa em que o usuário digita uma ou mais palavras e é exibido a quantidade de caracteres que a palavra inserida tem.
+ Você pode fazer uma verificação e incrementar o contador apenas **`se`** for um caractere, ignorando os espaços caso o usuário digite mais que uma palavra, por exemplo.
+    
+    */
+
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Vamos brincar de contar caracteres!");
+            Console.WriteLine("Digite uma palavra (ou frase) e eu direi quantos caracteres tem!");
+            string frase = Console.ReadLine();
+            string fraseSemEspacos = frase.Replace(" ", "");
+            int NC = fraseSemEspacos.Length;
+
+            Console.WriteLine($"Você digitou {NC} caracteres!");
+
+        }
+    }
