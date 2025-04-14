@@ -1,0 +1,15 @@
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\bin\Debug\net9.0\Desafios Extra.exe
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\bin\Debug\net9.0\Desafios Extra.deps.json
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\bin\Debug\net9.0\Desafios Extra.runtimeconfig.json
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\bin\Debug\net9.0\Desafios Extra.dll
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\bin\Debug\net9.0\Desafios Extra.pdb
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.AssemblyInfoInputs.cache
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.AssemblyInfo.cs
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.csproj.CoreCompileInputs.cache
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.sourcelink.json
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.dll
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\refint\Desafios Extra.dll
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.pdb
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\Desafios Extra.genruntimeconfig.cache
+C:\Users\Rennan O\Desktop\Desafios C#\Desafios Extra\obj\Debug\net9.0\ref\Desafios Extra.dll

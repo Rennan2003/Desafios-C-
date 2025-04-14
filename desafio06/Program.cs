@@ -17,8 +17,7 @@ class Program
     string data2 = dia.ToString("dd/MM/yyyy", new CultureInfo("pt-BR"));
     string data3 = dia.ToString("dd/MMMM/yyyy", new CultureInfo("pt-BR"));
     string data4 = dia.ToString("HH:mm:ss.f", new CultureInfo("pt-BR"));
-
-
+    
     Console.WriteLine(data1);
     Console.WriteLine(data2);
     Console.WriteLine(data4);
