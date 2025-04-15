@@ -1,0 +1,15 @@
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.AssemblyInfoInputs.cache
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.AssemblyInfo.cs
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.sourcelink.json
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\bin\Debug\net9.0\CRUD TESTE.exe
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\bin\Debug\net9.0\CRUD TESTE.deps.json
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\bin\Debug\net9.0\CRUD TESTE.runtimeconfig.json
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\bin\Debug\net9.0\CRUD TESTE.dll
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\bin\Debug\net9.0\CRUD TESTE.pdb
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.dll
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\refint\CRUD TESTE.dll
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.pdb
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\CRUD TESTE.genruntimeconfig.cache
+C:\Users\Rennan O\Desktop\Desafios C#\CRUD TESTE\obj\Debug\net9.0\ref\CRUD TESTE.dll
