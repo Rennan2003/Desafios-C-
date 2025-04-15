@@ -4,11 +4,12 @@ class Program
 {
     static void Main ()
     { 
+        Console.WriteLine("Olá! Seja Bem-Vindo a nossa Biblioteca Online");
         string opção;
         do
         {
             /*Menu*/
-        Console.WriteLine("Olá! Seja Bem-Vindo a nossa Biblioteca Online");
+        
         Console.WriteLine("Qual função deseja realiza?");
         Console.WriteLine ("1-  Criar um Livro ");
         Console.WriteLine  ("2- Acessar coleção");
