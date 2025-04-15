@@ -75,7 +75,7 @@ namespace GeradorDeNome
             { gato1 = "Misterioso"; 
             }
 
-            // Mês de nascimento (nome dramático)
+         
          switch (niver)
             {
                 case "1":
@@ -105,7 +105,7 @@ namespace GeradorDeNome
                 default: gato2 = "Eterno"; break;
             }
 
-            // Cor favorita (sobrenome caótico)
+          
             switch (cor)
             {
                 case "vermelho": gato3 = "della Rabbia"; break;
